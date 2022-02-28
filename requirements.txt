@@ -1,0 +1,9 @@
+plotly==5.5.0
+arch==5.1.0
+streamlit==0.84.0
+tensorflow==2.8.0
+matplotlib==3.1.2
+numpy
+pandas==1.2.5
+pmdarima==1.8.5
+yfinance==0.1.70
